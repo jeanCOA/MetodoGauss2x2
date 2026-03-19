@@ -133,4 +133,4 @@ No tiene solución
 * Evitar ingresar texto (solo números)
 * El programa trabaja con `double`, por lo que puede haber pequeñas aproximaciones decimales
 
----
+----
