@@ -100,4 +100,4 @@ public class Gauss2x2 {
         System.out.println(a + "\t" + b + "\t|\t" + e);
         System.out.println(c + "\t" + d + "\t|\t" + f);
     }
-} 
+}  
