@@ -75,7 +75,7 @@ public class Gauss2x2 {
         System.out.println("\nEliminando arriba (forma escalonada):");
         mostrarMatriz(a, b, e, c, d, f);
 
-        // Paso 4: hacer 1 el pivote de arriba
+        // Paso 4: hacer 1 el pivote de arriba.
         e = e / a;
         a = a / a;
 
@@ -93,11 +93,11 @@ public class Gauss2x2 {
         sc.close();
     }
 
-    // Metodo para imprimir la matriz
+    // Metodo para imprimir la matriz.
     public static void mostrarMatriz(double a, double b, double e,
                                      double c, double d, double f) {
 
         System.out.println(a + "\t" + b + "\t|\t" + e);
         System.out.println(c + "\t" + d + "\t|\t" + f);
     }
-}  
+}   
